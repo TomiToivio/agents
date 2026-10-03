@@ -27,7 +27,7 @@ setuptools.setup(
         'fastapi',
         'google_api_python_client',
         'google_auth_oauthlib',
-        'gradio==3.39.0',
+        'gradio==6.16.0',
         'langchain',
         'numpy',
         'openai',
